@@ -1,0 +1,49 @@
+body{
+  font-family: Helvetica;
+  font-size: 13px;
+  background: #D4DDAE url("cool.png") no-repeat fixed center;
+  margin: 35xp;
+  padding: 35xp;
+}
+
+h1{
+  margin: 35px;
+  background-color: #AF2D4C;
+  color: #F9D5DE;
+  padding: 35px;
+}
+
+address{
+  margin: 35px;
+  background: #D4DDAE;
+  color: #AF2D4C;
+  padding: 35px;
+}
+
+img{
+  border-radius: 50%;
+}
+
+h3{
+  margin:35px;
+  background: #89233B;
+  color: #D4DDAE;
+  padding: 35px;
+}
+
+ul{
+  background-color: pink;
+  list-style: circle;
+  margin: 35px;
+  padding: 35px;
+  overflow: auto;
+}
+
+
+
+footer {
+  background-color: #1B2A0A;
+  color: #D4DDAE;
+  margin-left: 5px;
+  padding: 5px;
+}
