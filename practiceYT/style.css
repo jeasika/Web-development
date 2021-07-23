@@ -105,14 +105,14 @@ header li {
 }
 
 #about-img1{
-    background: url(./resources/images/pizza1.jpg);
+    background: url(pizza1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #about-img2{
-    background: url(./resources/images/pizza2.jpg);
+    background: url(pizza2.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -124,7 +124,7 @@ header li {
     clear: both;
     font-size: 20px;
     text-align: center;
-    background: url(./resources/images/pizza3.jpg);
+    background: url(pizza3.jpg);
 }
 
 .menu-inner{
